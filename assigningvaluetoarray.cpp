@@ -38,5 +38,4 @@ it causes a fence-post error whcih is based on the idea that
 number of posts used to build a fence is one more than the
 number of sections in the fence.*/
 
-//However, this program is not causing a fence-post error when situations become such,
-// god fucking knows why.
+//However, this program is not causing any such error for some reason.
